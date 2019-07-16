@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app</string>
+    <string-array name="arrayspinner" >
+        <item>"Seleccionar"</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otros</item>
+        <item>Animal</item>
+    </string-array>
+</resources>
